@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First text
+=======
+New text
+>>>>>>> f39f98e8bcd89a639dfbb61b0b93c6af1ff4781c
